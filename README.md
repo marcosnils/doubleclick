@@ -43,3 +43,6 @@ fmt.Println(string(encPrice))
 
 # Contributing
 Contributions are welcome, however this a simple project that is not bounded to change often. 
+
+
+MIEEEEEEEL
